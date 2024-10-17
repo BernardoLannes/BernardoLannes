@@ -9,6 +9,8 @@ I'm Bernardo, a Computer Science student. I love coding and start new projects.
 - **University:** Federal Fluminense University (UFF)
 - **Location:** Rio das Ostras, Rio de Janeiro, Brazil
 
+**🔭 I’m looking for a job/internship focused on computer science!**
+
 ## My Skills
 
 - **Programming Languages:** C++, Python, Java
@@ -22,7 +24,13 @@ I'm Bernardo, a Computer Science student. I love coding and start new projects.
 1. **Word in Hand**
    - *Description:* A new approach to typing, trying to help people with some motor problems, such as Parkinson's disease or tendonitis. 
    - *Technologies Used:* HTML, CSS, JavaScript.
-   - *Link:* Project
+   - *Link:* [word-in-hand](https://github.com/BernardoLannes/word-in-hand).
+  
+
+2. **Agrometereological Station** (Extension Project - UFF)
+   - *Description:* A project that aims to develop a low-cost system for collecting accurate data related to agrometeorology. The project seeks to democratize access to essential meteorological information for agriculture.
+   - *Technologies Used:* Python, C++, Arduino, Esp8266, Eletronics, Data Analysis.
+   - *Link:* [Agrometeorological-Station](https://github.com/BernardoLannes/Agrometeorological-Station).
 <!--
 2. **[Project Name 2]**
    - *Description:* A probability calculator for predicting the future.
